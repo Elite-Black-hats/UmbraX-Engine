@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="quantum_blue">#2196F3</color>
+    <color name="quantum_blue_dark">#1976D2</color>
+    <color name="quantum_blue_light">#64B5F6</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_orange">#FF9800</color>
+    <color name="accent_green">#4CAF50</color>
+    <color name="accent_red">#F44336</color>
+    <color name="accent_purple">#9C27B0</color>
+    <color name="accent_cyan">#00BCD4</color>
+    
+    <!-- Background -->
+    <color name="background_dark">#121212</color>
+    <color name="background_darker">#0D1117</color>
+    <color name="surface_dark">#1E1E1E</color>
+    <color name="surface_elevated">#2D2D2D</color>
+    <color name="surface_higher">#3E3E42</color>
+    
+    <!-- Text -->
+    <color name="text_primary">#FFFFFF</color>
+    <color name="text_secondary">#B3B3B3</color>
+    <color name="text_disabled">#666666</color>
+    <color name="text_hint">#808080</color>
+    
+    <!-- Status -->
+    <color name="success">#4CAF50</color>
+    <color name="warning">#FFC107</color>
+    <color name="error">#F44336</color>
+    <color name="info">#2196F3</color>
+    
+    <!-- Borders -->
+    <color name="border_color">#3F3F46</color>
+    <color name="divider_color">#2D2D30</color>
+    
+    <!-- Special -->
+    <color name="transparent">#00000000</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    
+    <!-- Legacy -->
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>

@@ -1,0 +1,42 @@
+# Gradle
+.gradle/
+build/
+*.apk
+*.aar
+*.aab
+
+# Android Studio
+.idea/
+*.iml
+*.iws
+*.ipr
+.DS_Store
+
+# Local properties
+local.properties
+
+# Generated files
+bin/
+gen/
+.classpath
+.project
+.settings/
+*.class
+
+# Kotlin
+*.kt.bak
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Node/NPM
+node_modules/
+package-lock.json
+
+# Misc
+*.log
+*.swp
+*.swo
+*~
+.env
